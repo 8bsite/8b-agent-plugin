@@ -1,0 +1,23 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "8b-ai-website-builder",
+  "version": "0.3.0",
+  "description": "Free AI website builder: your agent creates a new website or landing page from scratch in an 8B generated design, with a preview, edits in plain words and one HTML file to download. No account or API key.",
+  "author": {
+    "name": "8b Tech Ltd",
+    "email": "s@8b.com",
+    "url": "https://8b.com"
+  },
+  "homepage": "https://8b.com/mcp/",
+  "repository": "https://github.com/8bsite/8b-agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "website",
+    "website builder",
+    "landing page",
+    "web design",
+    "html",
+    "mcp",
+    "8b"
+  ]
+}

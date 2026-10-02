@@ -1,0 +1,10 @@
+{
+  "name": "8b-ai-website-builder",
+  "version": "0.3.0",
+  "description": "Free AI website builder: create a new website or landing page in an 8B generated design, preview it, edit it in plain words and download one HTML file. No account or API key.",
+  "mcpServers": {
+    "8b": {
+      "httpUrl": "https://mcp.8b.com/mcp"
+    }
+  }
+}

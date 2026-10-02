@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "8b": {
+      "type": "streamable-http",
+      "url": "https://mcp.8b.com/mcp"
+    }
+  }
+}
